@@ -1,2 +1,2 @@
 # GGTrinks.github.io
-Iconic website. 
+Iconic website. For testing stuff. 
